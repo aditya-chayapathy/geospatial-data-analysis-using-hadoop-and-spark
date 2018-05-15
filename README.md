@@ -7,8 +7,8 @@ This project involves setting up a Hadoop + Spark cluster on Google Cloud Platfo
 4. Geo-Spark
 5. SparkSQL
 
-Phase 1 - Setting up the Hadoop + Spark cluster on GCP.
-Phase 2 - Performing range, range join, distance and distance join operations
-Phase 3 - Perform data analysis based on Getis – Ord 𝑮𝒊∗ Statistics
+Phase 1 - Setting up the Hadoop + Spark cluster on GCP.<br />
+Phase 2 - Performing range, range join, distance and distance join operations.<br />
+Phase 3 - Perform data analysis based on Getis – Ord 𝑮𝒊∗ Statistics.<br />
 
 To find more details, please check the README/Specification under the respective Phase folder.
